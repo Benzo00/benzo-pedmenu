@@ -1,5 +1,6 @@
 # benzo-pedmenu
-Another very simple script, but might as well post it, made this since someone requested it 
+Another very simple script, but might as well post it, made this since someone requested it
+This menu allows you to change to peds while playing and restore back to your normal ped!
 
 # Preview 
 
